@@ -1,4 +1,4 @@
-# SNRoofPendant
+# Project: Sierra Nevada Roof Pendant BMI-Microbe 
 This repository contains code pertaining to the manuscript tentatively titled "Synecological response of desert spring benthic prokaryotes and macroinvertebrates to Sierra Nevada roof pendant-derived calcium". Will update with DOI after publication. 
 
 ## plot_cladogram_modified.R
